@@ -8,7 +8,6 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm pipewire-jack \
     fluidsynth \
-    munt       \
     sdl2_image
 
 echo "Installing debloated packages..."
