@@ -1,9 +1,9 @@
 # Exult-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Link4Electronics/Exult-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Link4Electronics/Exult-AppImage/releases/latest)
-[![CI Build Status](https://github.com//Link4Electronics/Exult-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Link4Electronics/Exult-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Exult-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Exult-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Exult-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Exult-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/Link4Electronics/Exult-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/Exult-AppImage/releases/latest)
 
 ---
 
