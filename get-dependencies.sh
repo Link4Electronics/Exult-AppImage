@@ -6,8 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm pipewire-jack \
-    fluidsynth \
+pacman -Syu --noconfirm fluidsynth \
     sdl2_image
 
 echo "Installing debloated packages..."
