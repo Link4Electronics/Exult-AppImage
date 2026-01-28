@@ -1,6 +1,6 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# Exult-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Exult-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Exult-AppImage/releases/latest)
 [![CI Build Status](https://github.com//pkgforge-dev/Exult-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Exult-AppImage/releases/latest)
