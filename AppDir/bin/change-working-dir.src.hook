@@ -1,3 +1,4 @@
-dir=${XDG_DATA_HOME:-~/.exult}
+#!/bin/false
+dir=$HOME/.exult
 mkdir -p "$dir"
 cd "$dir"
